@@ -4,4 +4,3 @@ Developing a CNN-based system for early forest fire detection is crucial to safe
 Jupyter notebook file containing code for data collection, data analysis, data preprocessing, CNN model and accuracy evaluation are mentioned in the file named code.pdf along with their compilation.
 
 The entire research on the project is mentioned in the file named final.pdf.
-vghy
